@@ -9,4 +9,7 @@ console.log('hello world')
 </script>
 
 <style>
+ .body{
+   backgroudcolor: #333,
+ }
 </style>
